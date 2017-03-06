@@ -1,0 +1,6 @@
+<?
+  echo "Hell today is Monday"
+	"I am will besolve the problem"
+
+
+?>
